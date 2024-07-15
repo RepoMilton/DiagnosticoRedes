@@ -3,7 +3,7 @@
 Lee y subraya correctamente la o las respuestas de las siguientes preguntas:
 
 1. Las redes de computadoras sirven para compartir información
-
+ 
        Si        No
 
 2.  En un cafe internet cada computadora tiene una impresora conectada
