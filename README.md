@@ -22,7 +22,7 @@ Lee y subraya correctamente la o las respuestas de las siguientes preguntas:
 
        Si        No
 
-[REGRESAR AL INICIO]https://github.com/RepoMilton/RedesLAN.git
+[REGRESAR AL INICIO](https://github.com/RepoMilton/RedesLAN.git)
 
 
 
